@@ -370,7 +370,7 @@
     height: 380px;
   }
   .landing .container-l .text-parent{
-    height: 500px;
+    height: 400px;
     width:400px
   }
 }
@@ -843,10 +843,10 @@
   text-transform: capitalize;
 }
 .footer .container-fo .one p ,
-.footer .container-fo .two p
+.footer .container-fo .three p
 {
   text-transform: capitalize;
-  margin-top: -10px;
+  margin-top: 10px;
 }
 .footer .container-fo .two ul{
   list-style-type: none;
