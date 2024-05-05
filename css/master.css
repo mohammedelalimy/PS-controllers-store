@@ -174,7 +174,7 @@
   width: 350px;
   height: 310px;
   position: relative;
-  background-image: url(images/CQP.jpg);
+  background-image: url(/images/CQP.jpg);
   background-color: rgb(0, 0, 0);
   background-size: cover;
   animation-name: move;
@@ -482,27 +482,27 @@
   margin: 25px;
 }
 .product .container-p .block1 .img1{
-  background-image:url(images/we.jpg);
+  background-image:url(/images/we.jpg);
   background-size: cover;
 }
 .product .container-p .block2 .img2{
-  background-image:url(images/we.jpg);
+  background-image:url(/images/we.jpg);
   background-size: cover;
 }
 .product .container-p .block3 .img3{
-  background-image:url(images/we.jpg);
+  background-image:url(/images/we.jpg);
   background-size: cover;
 }
 .product .container-p .block4 .img4{
-  background-image:url(images/we.jpg);
+  background-image:url(/images/we.jpg);
   background-size: cover;
 }
 .product .container-p .block5 .img5{
-  background-image:url(images/we.jpg);
+  background-image:url(/images/we.jpg);
   background-size: cover;
 }
 .product .container-p .block6 .img6{
-  background-image:url(images/we.jpg);
+  background-image:url(/images/we.jpg);
   background-size: cover;
 }
 
@@ -551,7 +551,7 @@
 .about .container-a .photo{
   width: 400px;
   height: 400px;
-  background-image: url(images/010.png);
+  background-image: url(/images/010.png);
   background-size: cover;
   -webkit-border-radius: 70px;
   -moz-border-radius: 70px;
@@ -665,7 +665,7 @@
 .land-2 .container-l2 .l2-2{
   width: 450px;
   height: 400px;
-  background-image: url(images/img-4.png);
+  background-image: url(/images/img-4.png);
   background-size: cover;
   animation-name: move-xy;
   animation-duration: 10s;
@@ -786,7 +786,7 @@
 .form .container-f .f2{
     width: 450px;
     height: 400px;
-    background-image: url(images/Color.png);
+    background-image: url(/images/Color.png);
     background-size: cover;
 }
 @media (max-width:767px){
